@@ -1,2 +1,2 @@
-# https://previsaotexugo.github.io/index.php
+# https://previsaotexugo.github.io/
 # PrevisaoTexugo.github.io
